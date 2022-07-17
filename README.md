@@ -1,4 +1,4 @@
-# react-wallet-hooks
+# react-wallet-hooks
 
 This repository contains a hand-made wrapper of the library [Web3Modal](https://github.com/Web3Modal/web3modal), but for `React`.
 
