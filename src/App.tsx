@@ -5,6 +5,8 @@ import { IWalletContext, WalletContext } from "./Context/WalletContext";
 import NotFound from "./Components/NotFound";
 import Welcome from "./Components/Welcome";
 
+import "./App.css";
+
 declare module 'react' {
     interface HTMLAttributes<T> extends AriaAttributes, DOMAttributes<T> {
       // extends React's HTMLAttributes

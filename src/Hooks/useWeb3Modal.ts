@@ -22,7 +22,7 @@ const providerOptions = {
 
 const web3Modal = new Web3Modal({
     network: "mainnet",
-    theme: "dark",
+    // theme: "dark",
     cacheProvider: true,
     disableInjectedProvider: false,
     providerOptions
